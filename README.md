@@ -27,7 +27,7 @@ You may saw them the last time presentation
 
 -------------------------------
 
-![](https://pbs.twimg.com/profile_images/2727748211/c3d0981ae770f926eedf4eda7505b006.jpeg)
+![](https://raw.githubusercontent.com/jvanbruegge/munichjs-promises/master/wat.jpeg)
 
 -------------------------------
 
